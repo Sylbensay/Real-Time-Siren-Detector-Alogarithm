@@ -23,6 +23,7 @@ The detector is a convolutional neural network (CNN) trained on sirens embedded 
 - siren audio and background noise is randomly scrambled before each batch of training 
 - Various signal-to-noise ratios between the siren and background noise are generated to increase generalization
 
+# Files in repo
 There are four main files:
 1) **convertWav2Txt** & **generateTrainingData** are used to format the audio collected, split up the data into chunks, and save it into a numpy array
 2) **trainSirenDetector** is for setting up the CNN architecture and training it
