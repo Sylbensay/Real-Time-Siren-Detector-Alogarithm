@@ -9,7 +9,9 @@ Problem statement: There is a need to ensure that drivers are alerted of approac
 ## About the detector
 The detector is a convolutional neural network (CNN) trained on sirens embedded in urban and car noise
 
-Youtube video of working detector:
+###Video of working detector (click the image to go to video):
+
+
 [![Alt text](https://img.youtube.com/vi/yw6vhPHvPNU/0.jpg)](https://www.youtube.com/watch?v=yw6vhPHvPNU)
 
 ### CNN architecture:
