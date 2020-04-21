@@ -4,7 +4,7 @@
 
 Problem statement: There is a need to ensure that drivers are alerted of approaching emergency vehicles so that they can quickly and safely remove themselves from the path of the emergency vehicle. It is especially a challenge for deaf, hard of hearing, and distracted drivers to identify emergency signals, which puts them at an increased risk for colliding with emergency vehicles. The focus of this project is to develop a device for use in the car that detects emergency vehicles and notifies the driver of their presence in real time. 
 
-The code in this repository can be used to train and implement a real-time siren detector 
+**The code in this repository can be used to train and implement a real-time siren detector** 
 
 ## About the detector
 The detector is a convolutional neural network (CNN) trained on sirens embedded in urban and car noise
