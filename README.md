@@ -1,5 +1,5 @@
 # Emergency Driver Alert (EVA) software repository
-## This is a project led by Gabriel Sarch, Sylvester Benson-Sesay, and Phuc Do as part of the University of Rochester Biomedical Engineering Senior Design Project
+### This is a project led by Gabriel Sarch, Sylvester Benson-Sesay, and Phuc Do as part of the University of Rochester Biomedical Engineering Senior Design Project
 ### The problem was pitched to us by Marlene Sutliff and Steven Barnett, UR Community/Deaf Wellness Center and Dan Brooks, President HLAA NYS Association
 
 Problem statement: There is a need to ensure that drivers are alerted of approaching emergency vehicles so that they can quickly and safely remove themselves from the path of the emergency vehicle. It is especially a challenge for deaf, hard of hearing, and distracted drivers to identify emergency signals, which puts them at an increased risk for colliding with emergency vehicles. The focus of this project is to develop a device for use in the car that detects emergency vehicles and notifies the driver of their presence in real time. 
