@@ -1,3 +1,5 @@
+# Written by Sylvester Benson-Sesay
+# sbensons@u.rochester.edu
 # Generates text data from .wav files
 
 from scipy.io import wavfile
